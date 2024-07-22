@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I'm an ambitious professional with a Bachelor's in Computing and Information Systems, currently enhancing my skill set with an MSc in Big Data Analytics. My journey through academia and hands-on project experience has ignited a passion for data analysis, equipping me with the tools to transform complex datasets into actionable business insights.
+I'm an ambitious professional with a bachelor's in computing and information systems, and I am currently enhancing my skill set with an MSc in big data analytics. My journey through academia and hands-on project experience has ignited a passion for data analysis, equipping me with the tools to transform complex datasets into actionable business insights.
 
 ## 🌟 Professional Highlights & Skills
 
-- **Innovative Projects:** Led the development of a **Vehicle Inspection Management System** and a **Hospital Management System** using PHP, Laravel, and MySQL, showcasing my ability to manage large datasets and enhance operational efficiency and customer satisfaction.
+- **Innovative Projects:** Led the development of a **Twitter Sentiment Analysis Project** and the **Greater London Weather Trend Analysis** using Python and R, demonstrating my ability to work with big data and uncover valuable insights.
 
 - **Machine Learning Research:** Conducted in-depth research applying machine learning techniques to classify news articles, bolstering my skills in data preprocessing, analysis, and the application of machine learning models.
 
