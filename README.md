@@ -24,4 +24,4 @@ Feel free to reach out for collaborations or just a chat about data analytics, m
 ---
 
 Thank you for visiting my GitHub profile! Don't forget to check out my repositories below. 👇
-https://github.com/Disayiram3?tab=repositories
+- https://github.com/Disayiram3?tab=repositories
