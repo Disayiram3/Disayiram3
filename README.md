@@ -13,7 +13,7 @@ I’m an ambitious professional with a Master’s in Big Data Analytics and a Ba
 
 ## 🚀 Career Objective
 
-As I progress in my Big Data Analytics studies, I'm aiming to kickstart my career as a Data Analyst. I'm keen on applying my analytical prowess and technical expertise to help organizations leverage data for strategic decision-making, trend identification, and unlocking growth opportunities.
+Having completed my Master’s in Big Data Analytics, I am now ready to kickstart my career as a Data Analyst. I am eager to apply my analytical skills and technical expertise to help organizations leverage data for strategic decision-making, uncover trends, and drive growth opportunities.
 
 ## 📫 Let's Connect
 
@@ -24,3 +24,4 @@ Feel free to reach out for collaborations or just a chat about data analytics, m
 ---
 
 Thank you for visiting my GitHub profile! Don't forget to check out my repositories below. 👇
+https://github.com/Disayiram3?tab=repositories
