@@ -27,4 +27,4 @@ Feel free to connect for collaborations, discussions about data analytics, machi
 
 **Thank you for visiting my GitHub profile!** 
 Check out my repositories below for more examples of my work. 👇
-- [GitHun](https://github.com/Disayiram3?tab=repositories)
+- [GitHub](https://github.com/Disayiram3?tab=repositories)
