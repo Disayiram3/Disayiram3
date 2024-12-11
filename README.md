@@ -5,8 +5,9 @@
 I am a data analyst with an MSc in Big Data Analytics and a BSc in Computing & Information Systems. My academic journey and hands-on experience have fueled my passion for uncovering insights from complex datasets and guiding data-driven decisions.
 ## 🌟 Professional Highlights & Skills
 
-- **Innovative Projects:** Twitter Sentiment Analysis: Analyzed 5,000+ tweets to identify trending resolutions, using Python’s NLTK and data visualization (Matplotlib, Seaborn).
-Greater London Weather Trend Analysis: Conducted time series analysis in R on 60 years of weather data, informing energy and agricultural planning. [Project: Twitter Data Analysis](https://github.com/Disayiram3/twitter-data-analysis)
+- **Innovative Projects:**
+  - [Twitter Sentiment Analysis](https://github.com/iram/twitter-data-analysis): Analyzed 5,000+ tweets using Python’s NLTK and visualized findings with Matplotlib and Seaborn to uncover trending New Year’s resolutions.
+  - [Greater London Weather Trend Analysis](https://github.com/ram/Greater_London_Weather_Trend_Analysis): Performed time series analysis in R on 60 years of weather data to inform energy strategies and agricultural planning.
 
 - **Machine Learning Research:** Applied ML techniques to classify news articles, improving data preprocessing and model accuracy. [Publication Link](https://doi.org/10.1109/SCSE56529.2022.9905210)
 
