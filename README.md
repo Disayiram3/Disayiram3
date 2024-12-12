@@ -18,6 +18,10 @@ I am a data analyst with an MSc in Big Data Analytics and a BSc in Computing & I
 
 I am eager to leverage my analytical skills and technical expertise as a Data Analyst, helping organizations leverage big data for strategic decision-making, uncover trends, and drive growth opportunities.
 
+Check out my portfolio below for more examples of my work. 👇
+- [My Portfolio](https://disayiram3.github.io/my-portfolio/)
+
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/disayiram)
@@ -27,5 +31,4 @@ Feel free to connect for collaborations, discussions about data analytics, machi
 ---
 
 **Thank you for visiting my GitHub profile!** 
-Check out my repositories below for more examples of my work. 👇
-- [GitHub](https://github.com/Disayiram3?tab=repositories)
+
